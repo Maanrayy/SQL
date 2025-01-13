@@ -32,7 +32,7 @@ VALUES (1, 'Dokter Umum'),
 INSERT INTO dokter (kd_dokter, nama, hp, kd_spesialis)
 VALUES (1, 'Dr. Ahmad', '08123456789', 1),
        (2, 'Dr. Bagus', '08234567890', 2),
-       (3, 'Dr. Sholikin Fatkhur Rohmann', '08345678901', 3);
+       (3, 'Dr. Sholikin Fatkhur Rohman', '08345678901', 3);
 
 -- Menambahkan Data ke Tabel Praktek
 INSERT INTO praktek (kd_dokter, hari, jam_mulai, jam_selesai)
